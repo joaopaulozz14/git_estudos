@@ -1,4 +1,4 @@
-# Semana 4 — Protótipos, POO e Git de verdade
+# Semana 4 — Protótipos, POO e Git (versão main)
 
 Repositório de estudos: herança prototípica em JS + fluxo de Git profissional.
 
