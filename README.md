@@ -44,5 +44,5 @@ _(em andamento)_
 
 > Preencher aqui quando o conflito do Dia 3 for resolvido:
 > - O que causou o conflito foi a alterção da mesma linha nas duas branches. No caso, o título foi alterado nas duas branches, o que gerou um conflito na hora de fazer o merge.
-> - Deixei os dois títulos disponíveis somente para visualização da merge feita.
-> - Print ou trecho do `git diff` antes/depois
+> - Corrigido em um commit posterior (fix: remove título duplicado que sobrou da resolução do conflito), mantendo apenas uma versão do título e completando o merge de forma limpa.
+
