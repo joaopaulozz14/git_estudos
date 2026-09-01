@@ -1,12 +1,10 @@
 
-# Semana 4 — Protótipos, POO e Git (versão main)
-
-# Semana 4 — Protótipos, POO e Git na prática (feature)'.
+  # Semana 4 — Protótipos, POO e Git (versão main)
 
 
-Repositório de estudos: herança prototípica em JS + fluxo de Git profissional.
+  Repositório de estudos: herança prototípica em JS + fluxo de Git profissional.
 
-## Estrutura
+  ## Estrutura
 
 ```
 prototipos/
@@ -45,6 +43,6 @@ _(em andamento)_
 ## Conflito de merge resolvido (entregável da semana)
 
 > Preencher aqui quando o conflito do Dia 3 for resolvido:
-> - O que causou o conflito
-> - Como foi resolvido
+> - O que causou o conflito foi a alterção da mesma linha nas duas branches. No caso, o título foi alterado nas duas branches, o que gerou um conflito na hora de fazer o merge.
+> - Deixei os dois títulos disponíveis somente para visualização da merge feita.
 > - Print ou trecho do `git diff` antes/depois
