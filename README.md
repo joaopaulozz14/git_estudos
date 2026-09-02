@@ -32,13 +32,17 @@ _(em andamento)_
 
 ## Dia 4 — Commits atômicos, boas mensagens, log, stash, cherry-pick
 
-_(em andamento)_
+Comandos git utilizáveis 
+Git log navegável 
+Git stash para guardar o trabalho realizado sem realizar commit 
+Cherry-pick traz um único commit específico de outra branch3
 
 ## Dia 5 — Simulação de fluxo de equipe (branches, PR, squash merge)
 
-_(em andamento)_
-
----
+Cherry-pick local não empurrado antes de seguir pra próxima etapa
+Main local e remota divergiram
+git pull criou um merge de sincronização
+Lição: sempre git push logo após operações locais importantes (cherry-pick, amend, etc.), ou usar git pull --rebase quando não há conflito de conteúdo real
 
 ## Conflito de merge resolvido (entregável da semana)
 
